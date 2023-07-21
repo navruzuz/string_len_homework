@@ -1,9 +1,5 @@
-def main(a):
-    """
-    A variable of type string is given. Find its length.
-    Args:
-        a: string
-    Returns:
-        length of string
-    """
-    return
+
+n=45
+m=46
+s="{}+{}={}".format(n,m,n+m)
+print(s)
